@@ -1,0 +1,22 @@
+{
+  "name": "buffer-data-utils",
+  "version": "1.0.0",
+  "description": "Buffer shim for web/node contexts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarling/buffer-data-utils.git"
+  },
+  "keywords": [
+    "buffer"
+  ],
+  "author": "James Tarling <james.tarling@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarling/buffer-data-utils/issues"
+  },
+  "homepage": "https://github.com/tarling/buffer-data-utils#readme"
+}
